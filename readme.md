@@ -1,10 +1,10 @@
 # LED-Cube 3D Printing Files
 
-these files are for building the LED-Cube with 160x160mm p2.5 LED panels. 
+these files are for building the LED-Cube with 160x160mm p2.5 LED panels.
 
 I labeled the files by what they are needed for and how many you need of them. On the layer 1 and 2 you can choose if you wanna 3D print or if you have access to a CNC mill it out of 3mm alu. If you can mill, I recommend it for following parts:
 
-* 1x Layer 1 
+* 1x Layer 1
 
 * 1x Layer 2
 
@@ -30,11 +30,29 @@ In case you've printed everything:
 * 14x M3 inserts
 * 12x 10x5x2 neodym magnets
 
+#### German List
 
+##### Gekauift bei RC-Schrauben Shop
+
+6x Zylinderkopfschraube DIN 912 M2 x 14 (RC-912 2 14 A2)
+8x Zylinderkopfschraube DIN 912 M2,5 x 18 (RC-912 2,5 18 A2)
+4x DIN 985 Sicherungsmutter M2,5 - Edelstahl (RC-985 2,5 A2)
+60x Senkkopfschraube DIN 7991 M3 x 5 - Edelstahl A2 (RC-7991 3 5 A2)
+
+##### Gekauft bei Reichelt
+
+3x 3D Druck, Gewindeeinsätze, VORON, M3, 100 Stück (RX-M3X5X4)
+4x PAN Head Schrauben, Kreuzschlitz, PZD, M3, 10mm, 50 Stück (SKL M3X10-50)
+1x Multimeter PCW01A, digital, 2000 Counts, AC/DC, NCV (PCW 01A)
+1x 3D Druck, Lötspitzen / Einschmelzhilfe Set, 8 Stück (RX-LOE-SET-011)
+
+##### Gekauft bei Amazon
+
+2x Ultrahoher Leistung N52 Neodym Magnet - 10mm Durchmesser x 5mm Dick - 3,2kg Zug - Pack von 10
 
 for the milled variant:
 
-* 6x less M3 nuts 
+* 6x less M3 nuts
 * 6x M3 spacer nuts
 
 
