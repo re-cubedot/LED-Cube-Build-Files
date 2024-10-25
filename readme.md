@@ -38,6 +38,7 @@ In case you've printed everything:
 8x Zylinderkopfschraube DIN 912 M2,5 x 18 (RC-912 2,5 18 A2)
 4x DIN 985 Sicherungsmutter M2,5 - Edelstahl (RC-985 2,5 A2)
 60x Senkkopfschraube DIN 7991 M3 x 5 - Edelstahl A2 (RC-7991 3 5 A2)
+200x DIN 934 Sechskantmutter M3 - Stahl verzinkt (RC-934 10 3 A2K)
 
 ##### Gekauft bei Reichelt
 
